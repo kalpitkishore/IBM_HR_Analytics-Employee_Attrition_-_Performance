@@ -80,13 +80,13 @@ Employee attrition presents significant operational and financial challenges, in
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/IBM-HR-Analytics-Employee-Attrition.git
+   git clone https://github.com/kalpitkishore/IBM-HR-Analytics-Employee-Attrition.git
    cd IBM-HR-Analytics-Employee-Attrition
    ```
 
 2. **Install required dependencies:**
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+   pip install pandas numpy matplotlib seaborn jupyter
    ```
 
 3. **Launch the Notebook:**
