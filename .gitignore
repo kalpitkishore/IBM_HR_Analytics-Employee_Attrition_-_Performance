@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Data Files (keep large raw datasets off GitHub)
+*.csv
+data/*.csv
+
+# Jupyter Cache & Python Metadata
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
