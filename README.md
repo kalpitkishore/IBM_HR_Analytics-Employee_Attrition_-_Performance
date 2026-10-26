@@ -1,4 +1,7 @@
 # 📊 IBM HR Analytics: Employee Attrition & Retention Analysis
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 An executive-level Exploratory Data Analysis (EDA) project analyzing the IBM HR Employee Attrition dataset. This analysis investigates key behavioral, financial, and demographic drivers behind employee turnover—such as overtime workload, early-career tenure risks, stock option distribution, and compensation gaps—to provide actionable retention strategies for HR leadership.
 
